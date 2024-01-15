@@ -362,4 +362,18 @@ footer {
   .critique_first_p {
     line-height: 4rem;
   }
+
+  .critique_first_p span {
+    margin-bottom: 8rem;
+  }
+
+  .critique_wrapper {
+    min-height: unset;
+    padding-top: 40vw;
+    background-position: top 19vw right, top right 33%;
+    padding-bottom: 3rem;
+  }
+  .footer_container {
+    padding-top: 6rem;
+  }
 }
